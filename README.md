@@ -39,6 +39,4 @@
         style="border-radius: 10px;" />
     </a>
 </div>
-
-<p><br><br><br><br></p>
 <p><br><br><br><br></p>
