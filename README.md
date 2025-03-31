@@ -22,7 +22,7 @@
 <div style="display: inline_block", align="center">
 	<h3>Where to find me</h3>
 	<p>
-    <a href="https://www.linkedin.com/in/vitorabujamra/" target="_blank">
+    <a href="https://www.linkedin.com/in/vitorabujamra/" target="_blank" rel="noopener">
         <img
         alt="LinkedIn"
         src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg"
@@ -30,7 +30,7 @@
         width="200"
         style="border-radius: 10px;" />
     </a>
-	<a href="mailto:vitorabujamra@gmail.com" target="_blank">
+	<a href="mailto:vitorabujamra@gmail.com" target="_blank" rel="noopener">
         <img
         alt="Gmail"
         src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-1-1.png"
