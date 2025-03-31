@@ -42,14 +42,3 @@
 
 <p><br><br><br><br></p>
 <p><br><br><br><br></p>
-
-<div style="display: inline_block", align="right">
-	<h3>Support:</h3>
-	<a href="https://www.buymeacoffee.com/vitorabujamra" target="_blank">
-		<img
-		alt="BuymeaCoffee"
-		src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-		height="50"
-		width="210" />
-	</a>
-</div>
