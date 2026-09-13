@@ -20,9 +20,9 @@ Especialista em **ERP TOTVS Protheus (AdvPL/TL++)** e desenvolvimento **PHP** pa
 
 ## Sobre
 
-Coordeno a área de TI de uma indústria metalúrgica, atuando das duas pontas: **infraestrutura** e **desenvolvimento**.
+Atuo das duas pontas da TI: **infraestrutura** e **desenvolvimento**.
 
-No dia a dia isso significa customizar o ERP Protheus em AdvPL, manter um portal corporativo interno em PHP integrado ao Active Directory e ao SQL Server, e desenhar as integrações entre os dois mundos — ERP, RH e chão de fábrica.
+Na prática isso significa customizar o ERP Protheus em AdvPL, manter um portal corporativo interno em PHP integrado ao Active Directory e ao SQL Server, e desenhar as integrações entre os dois mundos — ERP, RH e chão de fábrica.
 
 Trabalho principalmente com sistemas de produção: **PCP, custeio industrial, faturamento, estoque e indicadores de gestão**.
 
